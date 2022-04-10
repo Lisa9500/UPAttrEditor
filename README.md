@@ -31,4 +31,4 @@ C:\Users\ユーザー名\.qgis2\python\plugins にコピーして，QGISのメ�
 
 # License
 
-"SteraR" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"UPAttrEditor" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
