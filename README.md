@@ -10,12 +10,13 @@ QGIS plug-in for Stera_R
 
 # Requirement
 
+QGIS2.18.28（QGIS3には対応していません）
 
 # Installation
 
+C:\Users\ユーザー名\.qgis2\python\plugins にコピーして，QGISのメニューの「プラグイ ン」→「プラグインの管理」をクリックし てインストールしてください．
 
 # Usage
-
 
 
 # Note
